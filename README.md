@@ -1,4 +1,4 @@
-![kath](head/kath.gif)
+![kath](head/kath.jpg)
 
 # Hi there! 👋 I'm Hasan Fadhli 
 
