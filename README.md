@@ -19,24 +19,23 @@ What drives me? **Curiosity** and the thrill of turning complex problems into el
 ### 💻 Web Development
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,mongodb,mysql,firebase" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,mongodb,mysql,firebase,git,github,postman,vite,prisma,vercel" />
   </a>
 </p>
 
-### 🤖 Data & AI
+### 🤖 AI & Data Science
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pandas,tensorflow,pytorch,opencv" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,postgres,sqlite" />
   </a>
 </p>
 
-### 📊 Data Tools & BI
+### 📱 Tools & IDE
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tableau,jupyter" />
+    <img src="https://skillicons.dev/icons?i=vscode,githubactions,notion" />
   </a>
 </p>
-
 ---
 
 ## 🌱 What I'm Currently Working On
@@ -60,25 +59,13 @@ I'm always excited to:
 
 ---
 
-## 📫 Reach Out
-
-<p align="center">
-  <a href="https://github.com/fadelveria">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="mailto:hasanfadhli699@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://www.instagram.com/faveria_/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="https://www.youtube.com/@faveria77">
-    <img src="https://skillicons.dev/icons?i=youtube" />
-  </a>
-</p>
-
----
-
 ⭐ *"Learning never stops, and neither does the excitement of building something new!"* 
 
 Thanks for stopping by! Feel free to explore my repositories and don't hesitate to reach out. Let's build something amazing together! 🚀
+<p align="center">
+  <a href="https://github.com/fadelveria"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:hasanfadhli699@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.instagram.com/faveria_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.youtube.com/@faveria77"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://medium.com/@hasanfadhli699"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+</p>
