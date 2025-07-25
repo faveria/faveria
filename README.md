@@ -36,6 +36,7 @@ What drives me? **Curiosity** and the thrill of turning complex problems into el
     <img src="https://skillicons.dev/icons?i=vscode,githubactions,notion" />
   </a>
 </p>
+
 ---
 
 ## 🌱 What I'm Currently Working On
