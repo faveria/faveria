@@ -33,7 +33,7 @@ What drives me? **Innovation** and the excitement of solving real-world problems
 
 ### 🛠️ Tools & IDE
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,jupyterlab,notion" alt="Tools & IDE" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="Tools & IDE" />
 </div>
 
 **Additional Tools:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly, Streamlit, FastAPI, Apache Spark, Tableau, Power BI
