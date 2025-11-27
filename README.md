@@ -26,6 +26,11 @@ What drives me? **Innovation** and the excitement of solving real-world problems
   <img src="https://skillicons.dev/icons?i=py,r,postgres,mysql,sqlite,mongodb" alt="Data Science Skills" />
 </div>
 
+### 🔧 Backend Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django,spring" alt="Backend Skills" />
+</div>
+
 ### ☁️ Cloud & MLOps
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github" alt="Cloud & MLOps Skills" />
@@ -58,6 +63,7 @@ What drives me? **Innovation** and the excitement of solving real-world problems
 - **Natural Language Processing**: Text Analysis, Sentiment Analysis, Language Models
 - **Data Engineering**: ETL Pipelines, Data Warehousing, Big Data Processing
 - **MLOps**: Model Deployment, Monitoring, CI/CD for ML, Containerization
+- **Backend Development**: RESTful APIs, Microservices, Database Design, Server Architecture
 
 ---
 
